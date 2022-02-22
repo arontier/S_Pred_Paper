@@ -20,9 +20,9 @@ S_Pred paper run code
 
 ## Reference
 
-Yiyu Hong, Juyong Lee, Junsu Ko. S-Pred: Protein Structural Property Prediction Using MSA Transformer.
+- Yiyu Hong, Juyong Lee, Junsu Ko. S-Pred: Protein Structural Property Prediction Using MSA Transformer.
 
-Roshan Rao, Jason Liu, Robert Verkuil, Joshua Meier, John F. Canny, Pieter Abbeel, Tom Sercu, Alexander Rives. MSA Transformer. bioRxiv 2021.02.12.430858; doi: https://doi.org/10.1101/2021.02.12.430858
+- Roshan Rao, Jason Liu, Robert Verkuil, Joshua Meier, John F. Canny, Pieter Abbeel, Tom Sercu, Alexander Rives. MSA Transformer. bioRxiv 2021.02.12.430858; doi: https://doi.org/10.1101/2021.02.12.430858
 
 
 ## License
