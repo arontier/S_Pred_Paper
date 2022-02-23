@@ -14,7 +14,10 @@ Run code for S Pred paper.
 
 ## Usages
 
-All three model weights file can be downloaded from ```https://drive.google.com/drive/folders/1sG0Zw1eVq07WyAL4SF-Hpb1GNh3q4bIo?usp=sharing```
+All three model weights file can be downloaded from 
+```
+https://drive.google.com/drive/folders/1sG0Zw1eVq07WyAL4SF-Hpb1GNh3q4bIo?usp=sharing
+```
 The input file should be in format .a3m MSA file, or .json file like ours.
 The output file will be in format .json.
 
