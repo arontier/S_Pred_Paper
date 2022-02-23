@@ -181,7 +181,7 @@ if __name__ == '__main__':
     parser.add_argument('-o', '--output_path', type=str, default='s_pred_asa.out',
                         help='output predicted asa value')
     parser.add_argument('--conv_model_path', type=str,
-                        default='s_pred_asa.pth',
+                        default='s_pred_asa_weights.pth',
                         help='model weight path')
 
     msa_args = parser.add_argument_group('MSA')
