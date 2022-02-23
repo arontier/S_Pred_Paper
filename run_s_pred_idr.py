@@ -182,7 +182,7 @@ if __name__ == '__main__':
     parser.add_argument('-o', '--output_path', type=str, default='s_pred_idr.out',
                         help='output predicted idr probability')
     parser.add_argument('--conv_model_path', type=str,
-                        default='s_pred_idr.pth',
+                        default='s_pred_idr_weights.pth',
                         help='model weight path')
 
     msa_args = parser.add_argument_group('MSA')
