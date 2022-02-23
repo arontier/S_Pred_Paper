@@ -18,20 +18,20 @@ All three model weights file can be downloaded from
 ```
 https://drive.google.com/drive/folders/1sG0Zw1eVq07WyAL4SF-Hpb1GNh3q4bIo?usp=sharing
 ```
-The input file should be in format .a3m MSA file, or .json file like ours.
-The output file will be in format .json.
+The input file should be in format `.a3m` MSA file, or `.json` file like ours.
+The output file will be in format `.json`.
 
-(1) predict asa
+- predict asa
 ```
 python run_s_pred_asa.py --input_path examples/s_pred_asa.a3m --output_path s_pred_asa --conv_model_path s_pred_asa_weights.pth
 ```
 
-(1) predict idr
+- predict idr
 ```
 python run_s_pred_idr.py --input_path examples/s_pred_idr.a3m --output_path s_pred_idr --conv_model_path s_pred_idr_weights.pth
 ```
 
-(1) predict ss
+- predict ss
 ```
 python run_s_pred_ss.py --input_path examples/s_pred_ss.a3m --output_path s_pred_ss --conv_model_path s_pred_ss_weights.pth
 ```
